@@ -1,0 +1,10 @@
+/* HMG default styles */
+.hmg_mb_label {
+    /* background: url("images/") no-repeat scroll transparent; */
+    display: inline-block;
+    min-width: 3em;
+}
+
+.hmg_mb_field_error {
+    background-color: red;
+}
